@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.910294784580499 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 12.910294784580499 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6304917316282609 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6304917316282609 
+            xmax = 1.4078746264761808 
+            text = "ta1" 
+        intervals [3]:
+            xmin = 1.4078746264761808 
+            xmax = 2.219553825508568 
+            text = "ta2" 
+        intervals [4]:
+            xmin = 2.219553825508568 
+            xmax = 2.9283441119875535 
+            text = "ta3" 
+        intervals [5]:
+            xmin = 2.9283441119875535 
+            xmax = 3.6599986012561843 
+            text = "" 
+        intervals [6]:
+            xmin = 3.6599986012561843 
+            xmax = 4.425949394709281 
+            text = "ti1" 
+        intervals [7]:
+            xmin = 4.425949394709281 
+            xmax = 5.2719248979261355 
+            text = "ti2" 
+        intervals [8]:
+            xmin = 5.2719248979261355 
+            xmax = 6.049307792774055 
+            text = "ti3" 
+        intervals [9]:
+            xmin = 6.049307792774055 
+            xmax = 6.860986991806442 
+            text = "" 
+        intervals [10]:
+            xmin = 6.860986991806442 
+            xmax = 7.661234089444006 
+            text = "tha1" 
+        intervals [11]:
+            xmin = 7.661234089444006 
+            xmax = 8.484345389871216 
+            text = "tha2" 
+        intervals [12]:
+            xmin = 8.484345389871216 
+            xmax = 9.318888791693247 
+            text = "tha3" 
+        intervals [13]:
+            xmin = 9.318888791693247 
+            xmax = 10.01624697677741 
+            text = "" 
+        intervals [14]:
+            xmin = 10.01624697677741 
+            xmax = 10.736469364651219 
+            text = "thi1" 
+        intervals [15]:
+            xmin = 10.736469364651219 
+            xmax = 11.468123853919849 
+            text = "thi2" 
+        intervals [16]:
+            xmin = 11.468123853919849 
+            xmax = 12.24550674876777 
+            text = "thi3" 
+        intervals [17]:
+            xmin = 12.24550674876777 
+            xmax = 12.910294784580499 
+            text = "" 

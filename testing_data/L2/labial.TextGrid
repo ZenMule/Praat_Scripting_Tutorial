@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.26875283446712 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 13.26875283446712 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6832460669329781 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6832460669329781 
+            xmax = 1.4587141876039325 
+            text = "pa1" 
+        intervals [3]:
+            xmin = 1.4587141876039325 
+            xmax = 2.3281784441137905 
+            text = "pa2" 
+        intervals [4]:
+            xmin = 2.3281784441137905 
+            xmax = 3.150644632704197 
+            text = "pa3" 
+        intervals [5]:
+            xmin = 3.150644632704197 
+            xmax = 3.785118549616796 
+            text = "" 
+        intervals [6]:
+            xmin = 3.785118549616796 
+            xmax = 4.56058667028775 
+            text = "pi1" 
+        intervals [7]:
+            xmin = 4.56058667028775 
+            xmax = 5.347804307938568 
+            text = "pi2" 
+        intervals [8]:
+            xmin = 5.347804307938568 
+            xmax = 6.170270496528973 
+            text = "pi3" 
+        intervals [9]:
+            xmin = 6.170270496528973 
+            xmax = 7.145480405857597 
+            text = "" 
+        intervals [10]:
+            xmin = 7.145480405857597 
+            xmax = 7.956197077468141 
+            text = "pha1" 
+        intervals [11]:
+            xmin = 7.956197077468141 
+            xmax = 8.708166164179369 
+            text = "pha2" 
+        intervals [12]:
+            xmin = 8.708166164179369 
+            xmax = 9.636378005588542 
+            text = "pha3" 
+        intervals [13]:
+            xmin = 9.636378005588542 
+            xmax = 10.45884419417895 
+            text = "" 
+        intervals [14]:
+            xmin = 10.45884419417895 
+            xmax = 11.22256279787004 
+            text = "phi1" 
+        intervals [15]:
+            xmin = 11.22256279787004 
+            xmax = 11.962782367601406 
+            text = "phi2" 
+        intervals [16]:
+            xmin = 11.962782367601406 
+            xmax = 12.761749522232087 
+            text = "phi3" 
+        intervals [17]:
+            xmin = 12.761749522232087 
+            xmax = 13.26875283446712 
+            text = "" 

@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.428299319727891 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 14.428299319727891 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4200982589498996 
+            text = "" 
+        intervals [2]:
+            xmin = 1.4200982589498996 
+            xmax = 2.4166495473099783 
+            text = "ts\a1" 
+        intervals [3]:
+            xmin = 2.4166495473099783 
+            xmax = 3.2598852528454296 
+            text = "ts\a2" 
+        intervals [4]:
+            xmin = 3.2598852528454296 
+            xmax = 4.077568361243443 
+            text = "ts\a3" 
+        intervals [5]:
+            xmin = 4.077568361243443 
+            xmax = 4.690830692541953 
+            text = "" 
+        intervals [6]:
+            xmin = 4.690830692541953 
+            xmax = 5.508513800939966 
+            text = "ts\i1" 
+        intervals [7]:
+            xmin = 5.508513800939966 
+            xmax = 6.300644312200541 
+            text = "ts\i2" 
+        intervals [8]:
+            xmin = 6.300644312200541 
+            xmax = 7.092774823461116 
+            text = "ts\i3" 
+        intervals [9]:
+            xmin = 7.092774823461116 
+            xmax = 7.936010528996567 
+            text = "" 
+        intervals [10]:
+            xmin = 7.936010528996567 
+            xmax = 8.86868032451305 
+            text = "ts\ha1" 
+        intervals [11]:
+            xmin = 8.86868032451305 
+            xmax = 9.62248194006747 
+            text = "ts\ha2" 
+        intervals [12]:
+            xmin = 9.62248194006747 
+            xmax = 10.427388749896764 
+            text = "ts\ha3" 
+        intervals [13]:
+            xmin = 10.427388749896764 
+            xmax = 11.308953351138372 
+            text = "" 
+        intervals [14]:
+            xmin = 11.308953351138372 
+            xmax = 12.164965355242542 
+            text = "ts\hi1" 
+        intervals [15]:
+            xmin = 12.164965355242542 
+            xmax = 12.982648463640555 
+            text = "ts\hi2" 
+        intervals [16]:
+            xmin = 12.982648463640555 
+            xmax = 13.91531825915704 
+            text = "ts\hi3" 
+        intervals [17]:
+            xmin = 13.91531825915704 
+            xmax = 14.428299319727891 
+            text = "" 
