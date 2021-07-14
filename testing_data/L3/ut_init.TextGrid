@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 44.09904761904762 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vot" 
+        xmin = 0 
+        xmax = 44.09904761904762 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8157489010116915 
+            text = "" 
+        intervals [2]:
+            xmin = 0.8157489010116915 
+            xmax = 0.8809419213042295 
+            text = "ph" 
+        intervals [3]:
+            xmin = 0.8809419213042295 
+            xmax = 3.1690618855573507 
+            text = "" 
+        intervals [4]:
+            xmin = 3.1690618855573507 
+            xmax = 3.1934583818337545 
+            text = "k" 
+        intervals [5]:
+            xmin = 3.1934583818337545 
+            xmax = 5.591099118834685 
+            text = "" 
+        intervals [6]:
+            xmin = 5.591099118834685 
+            xmax = 5.670172317797712 
+            text = "th" 
+        intervals [7]:
+            xmin = 5.670172317797712 
+            xmax = 7.927099572498296 
+            text = "" 
+        intervals [8]:
+            xmin = 7.927099572498296 
+            xmax = 7.942747174924215 
+            text = "p" 
+        intervals [9]:
+            xmin = 7.942747174924215 
+            xmax = 10.084706888872011 
+            text = "" 
+        intervals [10]:
+            xmin = 10.084706888872011 
+            xmax = 10.174342649018703 
+            text = "kh" 
+        intervals [11]:
+            xmin = 10.174342649018703 
+            xmax = 12.437162303205891 
+            text = "" 
+        intervals [12]:
+            xmin = 12.437162303205891 
+            xmax = 12.458560426757657 
+            text = "t" 
+        intervals [13]:
+            xmin = 12.458560426757657 
+            xmax = 15.099914701693281 
+            text = "" 
+        intervals [14]:
+            xmin = 15.099914701693281 
+            xmax = 15.164241738774718 
+            text = "ph" 
+        intervals [15]:
+            xmin = 15.164241738774718 
+            xmax = 17.37286432178625 
+            text = "" 
+        intervals [16]:
+            xmin = 17.37286432178625 
+            xmax = 17.40382201456144 
+            text = "k" 
+        intervals [17]:
+            xmin = 17.40382201456144 
+            xmax = 19.686745017098264 
+            text = "" 
+        intervals [18]:
+            xmin = 19.686745017098264 
+            xmax = 19.775378128822954 
+            text = "th" 
+        intervals [19]:
+            xmin = 19.775378128822954 
+            xmax = 22.064361472926052 
+            text = "" 
+        intervals [20]:
+            xmin = 22.064361472926052 
+            xmax = 22.082383659647757 
+            text = "p" 
+        intervals [21]:
+            xmin = 22.082383659647757 
+            xmax = 24.410593845018834 
+            text = "" 
+        intervals [22]:
+            xmin = 24.410593845018834 
+            xmax = 24.493298156603597 
+            text = "kh" 
+        intervals [23]:
+            xmin = 24.493298156603597 
+            xmax = 26.860882543784584 
+            text = "" 
+        intervals [24]:
+            xmin = 26.860882543784584 
+            xmax = 26.87783565509967 
+            text = "t" 
+        intervals [25]:
+            xmin = 26.87783565509967 
+            xmax = 29.980625488891935 
+            text = "" 
+        intervals [26]:
+            xmin = 29.980625488891935 
+            xmax = 30.032259011949535 
+            text = "ph" 
+        intervals [27]:
+            xmin = 30.032259011949535 
+            xmax = 32.66946390993264 
+            text = "" 
+        intervals [28]:
+            xmin = 32.66946390993264 
+            xmax = 32.69622233781076 
+            text = "k" 
+        intervals [29]:
+            xmin = 32.69622233781076 
+            xmax = 35.08092166983891 
+            text = "" 
+        intervals [30]:
+            xmin = 35.08092166983891 
+            xmax = 35.16486135796142 
+            text = "th" 
+        intervals [31]:
+            xmin = 35.16486135796142 
+            xmax = 37.47172411703626 
+            text = "" 
+        intervals [32]:
+            xmin = 37.47172411703626 
+            xmax = 37.47522811451373 
+            text = "p" 
+        intervals [33]:
+            xmin = 37.47522811451373 
+            xmax = 39.804899742795044 
+            text = "" 
+        intervals [34]:
+            xmin = 39.804899742795044 
+            xmax = 39.90660770381511 
+            text = "kh" 
+        intervals [35]:
+            xmin = 39.90660770381511 
+            xmax = 42.11074060769408 
+            text = "" 
+        intervals [36]:
+            xmin = 42.11074060769408 
+            xmax = 42.124752969481875 
+            text = "t" 
+        intervals [37]:
+            xmin = 42.124752969481875 
+            xmax = 44.09904761904762 
+            text = "" 

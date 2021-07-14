@@ -15,7 +15,7 @@
 ############################################################
 
 form Extract smaller files from large file
-   sentence Directory_name: /Users/zenmule/Programming/Praat/Praat_Scripting_Tutorial/testing_data/L2
+   sentence Directory_name: /yourdirectory
    sentence Renamed_file_prefix: prac2_
    positive Tier_number: 1
 endform
